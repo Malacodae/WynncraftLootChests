@@ -2,7 +2,20 @@
 
 <p>WynncraftLootChest aims to simplify for the Wynntils users the discovery of loot chests.</p>
 
-> #### How it works
+#### Requirements
+
+- Wynntils mod (for Minecraft 1.12.2 or newer);
+- Access to the internet;
+- Access to a decent web browser.
+
+#### Features
+
+- **List all your loot chest waypoints** with a bunch of information (tier, location, closest Wynncraft place and its level);
+- **Compare your loot chest waypoints** with a 2023 updated list of 1000+ loot chests found by me;
+- **Automatically add to your Wynntils configuration file the missing loot chests**;
+
+#### How it works
+
 > <p>Wynntils mod for Wynncraft has a configuration file. Inside of it, all the waypoints you create are stored. By default, Wynntils automatically creates a new waypoint when you open a Tier 3 or higher loot chest.</p>
 > <p>WynncraftLootChests is a bunch of javascript code you can run locally on your computer to quickly access and update the loot chests stored in your Wynntils configuration file.</p>
 > <p>If you don't know what Wynntils is, check https://wynntils.com/).</p>
