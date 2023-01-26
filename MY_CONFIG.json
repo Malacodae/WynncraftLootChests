@@ -1,7 +1,7 @@
 {
   "lootrunFeature.rainbowLootRun": true,
-  "dataStorageFeature.dryCount": 1680,
-  "dataStorageFeature.dryBoxes": 1840,
+  "dataStorageFeature.dryCount": 1996,
+  "dataStorageFeature.dryBoxes": 2269,
   "autoApplyResourcePackFeature.packHash": "d780bfc673295fb8c35ec2b4fda8f00a2b8fe9bf",
   "chatTimestampFeature.userEnabled": false,
   "gammabrightFeature.gammabrightEnabled": true,
@@ -7518,6 +7518,3185 @@
         "x": 741,
         "y": 46,
         "z": -2243
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1101,
+        "y": 86,
+        "z": -5268
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1100,
+        "y": 80,
+        "z": -5270
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1093,
+        "y": 76,
+        "z": -5264
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1062,
+        "y": 34,
+        "z": -5215
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1100,
+        "y": 33,
+        "z": -5241
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1078,
+        "y": 27,
+        "z": -5249
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1055,
+        "y": 15,
+        "z": -5266
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1137,
+        "y": 43,
+        "z": -5297
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1227,
+        "y": 22,
+        "z": -5285
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1203,
+        "y": 36,
+        "z": -5337
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1184,
+        "y": 42,
+        "z": -5415
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1130,
+        "y": 40,
+        "z": -5340
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1078,
+        "y": 48,
+        "z": -5360
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1072,
+        "y": 42,
+        "z": -5439
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1127,
+        "y": 87,
+        "z": -5633
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1160,
+        "y": 85,
+        "z": -5619
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1165,
+        "y": 74,
+        "z": -5692
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1190,
+        "y": 59,
+        "z": -5671
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1114,
+        "y": 82,
+        "z": -5686
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1277,
+        "y": 87,
+        "z": -5585
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1281,
+        "y": 7,
+        "z": -5553
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1291,
+        "y": 44,
+        "z": -5491
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1344,
+        "y": 46,
+        "z": -5459
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1331,
+        "y": 46,
+        "z": -5555
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1349,
+        "y": 47,
+        "z": -5564
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1348,
+        "y": 28,
+        "z": -5635
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1376,
+        "y": 31,
+        "z": -5621
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1372,
+        "y": 55,
+        "z": -5487
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1421,
+        "y": 33,
+        "z": -5475
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1377,
+        "y": 57,
+        "z": -5430
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1337,
+        "y": 46,
+        "z": -5409
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1331,
+        "y": 45,
+        "z": -5395
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1380,
+        "y": 58,
+        "z": -5360
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1392,
+        "y": 37,
+        "z": -5341
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1306,
+        "y": 46,
+        "z": -5283
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1274,
+        "y": 49,
+        "z": -5261
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1354,
+        "y": 45,
+        "z": -5214
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1408,
+        "y": 45,
+        "z": -5220
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1208,
+        "y": 61,
+        "z": -5164
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1140,
+        "y": 50,
+        "z": -5136
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -999,
+        "y": 37,
+        "z": -5296
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -954,
+        "y": 56,
+        "z": -5352
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -944,
+        "y": 80,
+        "z": -5373
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1015,
+        "y": 52,
+        "z": -5375
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffff",
+      "icon": "CHEST_T3",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -969,
+        "y": 9,
+        "z": -5469
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -972,
+        "y": 9,
+        "z": -5463
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -946,
+        "y": 88,
+        "z": -5558
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -933,
+        "y": 83,
+        "z": -5606
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -842,
+        "y": 64,
+        "z": -5475
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -891,
+        "y": 44,
+        "z": -5384
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -871,
+        "y": 47,
+        "z": -5298
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -927,
+        "y": 43,
+        "z": -5186
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -769,
+        "y": 45,
+        "z": -5099
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -788,
+        "y": 64,
+        "z": -5030
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -786,
+        "y": 75,
+        "z": -5019
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -783,
+        "y": 90,
+        "z": -5030
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -693,
+        "y": 45,
+        "z": -5064
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -678,
+        "y": 48,
+        "z": -5249
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -590,
+        "y": 16,
+        "z": -5317
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -728,
+        "y": 9,
+        "z": -5278
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -732,
+        "y": 10,
+        "z": -5424
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -735,
+        "y": 12,
+        "z": -5498
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -765,
+        "y": 36,
+        "z": -5573
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -674,
+        "y": 32,
+        "z": -5574
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffff",
+      "icon": "CHEST_T3",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -411,
+        "y": 9,
+        "z": -5567
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -418,
+        "y": 50,
+        "z": -5553
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffff",
+      "icon": "CHEST_T3",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -230,
+        "y": 16,
+        "z": -5580
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -301,
+        "y": 25,
+        "z": -5296
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -279,
+        "y": 76,
+        "z": -5336
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -393,
+        "y": 53,
+        "z": -5294
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -531,
+        "y": 57,
+        "z": -5314
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -535,
+        "y": 77,
+        "z": -5289
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -489,
+        "y": 73,
+        "z": -5252
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -496,
+        "y": 79,
+        "z": -5338
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -469,
+        "y": 62,
+        "z": -5300
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -472,
+        "y": 49,
+        "z": -5292
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -458,
+        "y": 48,
+        "z": -5287
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -521,
+        "y": 55,
+        "z": -5226
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -507,
+        "y": 57,
+        "z": -4833
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -527,
+        "y": 46,
+        "z": -4846
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -607,
+        "y": 51,
+        "z": -4863
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -627,
+        "y": 66,
+        "z": -4839
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -626,
+        "y": 71,
+        "z": -4874
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -476,
+        "y": 24,
+        "z": -4699
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -603,
+        "y": 44,
+        "z": -4674
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -603,
+        "y": 22,
+        "z": -4628
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -693,
+        "y": 44,
+        "z": -4575
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -656,
+        "y": 66,
+        "z": -4375
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -657,
+        "y": 66,
+        "z": -4395
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -793,
+        "y": 27,
+        "z": -4638
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -754,
+        "y": 44,
+        "z": -4720
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -762,
+        "y": 36,
+        "z": -4850
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -700,
+        "y": 27,
+        "z": -4846
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -668,
+        "y": 8,
+        "z": -4873
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -716,
+        "y": 43,
+        "z": -4826
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -738,
+        "y": 44,
+        "z": -4904
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -763,
+        "y": 43,
+        "z": -4914
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -784,
+        "y": 44,
+        "z": -4810
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -823,
+        "y": 34,
+        "z": -4745
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -794,
+        "y": 33,
+        "z": -4731
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -827,
+        "y": 44,
+        "z": -4722
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -981,
+        "y": 43,
+        "z": -4646
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -961,
+        "y": 45,
+        "z": -4574
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1025,
+        "y": 42,
+        "z": -4538
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -911,
+        "y": 43,
+        "z": -4512
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -906,
+        "y": 42,
+        "z": -4493
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -846,
+        "y": 45,
+        "z": -4513
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -903,
+        "y": 47,
+        "z": -4428
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -913,
+        "y": 67,
+        "z": -4385
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -969,
+        "y": 43,
+        "z": -4445
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -967,
+        "y": 67,
+        "z": -4331
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -859,
+        "y": 42,
+        "z": -4236
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffff",
+      "icon": "CHEST_T4",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -881,
+        "y": 61,
+        "z": -4171
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1183,
+        "y": 88,
+        "z": -4482
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1184,
+        "y": 94,
+        "z": -4491
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1128,
+        "y": 44,
+        "z": -4505
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1272,
+        "y": 43,
+        "z": -4459
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1339,
+        "y": 43,
+        "z": -4454
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1321,
+        "y": 44,
+        "z": -4560
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1380,
+        "y": 102,
+        "z": -4356
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1374,
+        "y": 42,
+        "z": -4619
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1392,
+        "y": 9,
+        "z": -4666
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1410,
+        "y": 43,
+        "z": -4730
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1283,
+        "y": 29,
+        "z": -4700
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1303,
+        "y": 44,
+        "z": -4697
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1276,
+        "y": 43,
+        "z": -4703
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1289,
+        "y": 41,
+        "z": -4655
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1231,
+        "y": 44,
+        "z": -4695
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1209,
+        "y": 55,
+        "z": -4720
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1218,
+        "y": 43,
+        "z": -4634
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1194,
+        "y": 43,
+        "z": -4617
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1173,
+        "y": 43,
+        "z": -4597
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1077,
+        "y": 43,
+        "z": -4672
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1212,
+        "y": 48,
+        "z": -4768
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1090,
+        "y": 44,
+        "z": -4810
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1058,
+        "y": 44,
+        "z": -4759
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1041,
+        "y": 67,
+        "z": -4795
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -954,
+        "y": 37,
+        "z": -4826
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1097,
+        "y": 43,
+        "z": -4871
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1187,
+        "y": 52,
+        "z": -4883
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1234,
+        "y": 40,
+        "z": -4958
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1275,
+        "y": 45,
+        "z": -4989
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1401,
+        "y": 43,
+        "z": -5000
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1310,
+        "y": 42,
+        "z": -5013
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1308,
+        "y": 34,
+        "z": -5030
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1273,
+        "y": 12,
+        "z": -5019
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1273,
+        "y": 12,
+        "z": -5017
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1295,
+        "y": 59,
+        "z": -5038
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1207,
+        "y": 40,
+        "z": -5043
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1124,
+        "y": 36,
+        "z": -5096
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 24977,
+        "y": 22,
+        "z": 26049
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 25300,
+        "y": 82,
+        "z": 26362
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 25355,
+        "y": 47,
+        "z": 26490
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffff",
+      "icon": "CHEST_T3",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 24852,
+        "y": 22,
+        "z": 23967
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 24896,
+        "y": 33,
+        "z": 23711
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 24923,
+        "y": 21,
+        "z": 23703
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffff",
+      "icon": "CHEST_T3",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 24867,
+        "y": 20,
+        "z": 23733
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 25035,
+        "y": 16,
+        "z": 23500
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1063,
+        "y": 48,
+        "z": -5039
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1031,
+        "y": 46,
+        "z": -5029
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1016,
+        "y": 42,
+        "z": -5004
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1043,
+        "y": 47,
+        "z": -4984
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1071,
+        "y": 46,
+        "z": -4981
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -1113,
+        "y": 45,
+        "z": -4952
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -901,
+        "y": 52,
+        "z": -4906
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 788,
+        "y": 139,
+        "z": -4961
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 844,
+        "y": 79,
+        "z": -5148
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 791,
+        "y": 59,
+        "z": -5274
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 817,
+        "y": 54,
+        "z": -5247
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 881,
+        "y": 39,
+        "z": -5227
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 915,
+        "y": 18,
+        "z": -5169
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 815,
+        "y": 13,
+        "z": -5369
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 828,
+        "y": 47,
+        "z": -5398
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 862,
+        "y": 45,
+        "z": -5486
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 893,
+        "y": 115,
+        "z": -5511
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 891,
+        "y": 122,
+        "z": -5590
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 977,
+        "y": 109,
+        "z": -5516
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 1028,
+        "y": 112,
+        "z": -5517
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 1002,
+        "y": 157,
+        "z": -5497
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 1018,
+        "y": 116,
+        "z": -5466
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 1133,
+        "y": 43,
+        "z": -5550
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 1058,
+        "y": 42,
+        "z": -5551
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 1010,
+        "y": 67,
+        "z": -5522
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 1023,
+        "y": 39,
+        "z": -5562
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 1106,
+        "y": 43,
+        "z": -5496
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 1064,
+        "y": 44,
+        "z": -5463
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 1061,
+        "y": 39,
+        "z": -5289
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 742,
+        "y": 46,
+        "z": -5552
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 654,
+        "y": 18,
+        "z": -5609
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 769,
+        "y": 46,
+        "z": -5354
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 769,
+        "y": 45,
+        "z": -5305
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 716,
+        "y": 46,
+        "z": -5275
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 698,
+        "y": 69,
+        "z": -5384
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 511,
+        "y": 25,
+        "z": -5315
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 629,
+        "y": 62,
+        "z": -5106
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 601,
+        "y": 41,
+        "z": -5003
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 547,
+        "y": 24,
+        "z": -4938
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 527,
+        "y": 28,
+        "z": -4884
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 491,
+        "y": 22,
+        "z": -4890
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 522,
+        "y": 16,
+        "z": -4819
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 579,
+        "y": 27,
+        "z": -4872
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 619,
+        "y": 28,
+        "z": -4829
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 627,
+        "y": 28,
+        "z": -4775
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 635,
+        "y": 32,
+        "z": -4771
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 639,
+        "y": 34,
+        "z": -4709
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffff",
+      "icon": "CHEST_T3",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 664,
+        "y": 35,
+        "z": -4799
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 731,
+        "y": 10,
+        "z": -4761
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 466,
+        "y": 12,
+        "z": -4740
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 523,
+        "y": 63,
+        "z": -4800
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 561,
+        "y": 139,
+        "z": -4755
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 447,
+        "y": 96,
+        "z": -4678
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 423,
+        "y": 93,
+        "z": -4660
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 424,
+        "y": 66,
+        "z": -4570
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 442,
+        "y": 46,
+        "z": -4588
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 464,
+        "y": 46,
+        "z": -4581
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 466,
+        "y": 28,
+        "z": -4564
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 534,
+        "y": 60,
+        "z": -4505
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 513,
+        "y": 106,
+        "z": -4381
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 452,
+        "y": 87,
+        "z": -4328
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 400,
+        "y": 28,
+        "z": -4420
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 343,
+        "y": 44,
+        "z": -4482
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 363,
+        "y": 88,
+        "z": -4644
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 222,
+        "y": 31,
+        "z": -4726
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 259,
+        "y": 34,
+        "z": -4733
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffff",
+      "icon": "CHEST_T4",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 197,
+        "y": 30,
+        "z": -4661
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 308,
+        "y": 58,
+        "z": -4728
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 268,
+        "y": 78,
+        "z": -4863
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 274,
+        "y": 82,
+        "z": -4913
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 214,
+        "y": 78,
+        "z": -4888
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 256,
+        "y": 93,
+        "z": -4697
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 262,
+        "y": 103,
+        "z": -4642
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 284,
+        "y": 95,
+        "z": -4660
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 169,
+        "y": 82,
+        "z": -4751
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 138,
+        "y": 70,
+        "z": -4722
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 108,
+        "y": 54,
+        "z": -4704
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 128,
+        "y": 46,
+        "z": -4562
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 152,
+        "y": 74,
+        "z": -4556
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 190,
+        "y": 63,
+        "z": -4504
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 184,
+        "y": 75,
+        "z": -4469
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 217,
+        "y": 99,
+        "z": -4327
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 215,
+        "y": 87,
+        "z": -4332
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 146,
+        "y": 77,
+        "z": -4356
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 97,
+        "y": 109,
+        "z": -4443
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -72,
+        "y": 97,
+        "z": -4291
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -79,
+        "y": 95,
+        "z": -4455
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffff",
+      "icon": "CHEST_T3",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": -83,
+        "y": 17,
+        "z": -4449
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 30,
+        "y": 46,
+        "z": -4610
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 7,
+        "y": 35,
+        "z": -4651
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 11,
+        "y": 44,
+        "z": -4669
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 36,
+        "y": 43,
+        "z": -4670
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 29,
+        "y": 54,
+        "z": -4736
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 89,
+        "y": 44,
+        "z": -4800
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 151,
+        "y": 58,
+        "z": -4831
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 20,
+        "y": 89,
+        "z": -4871
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 338,
+        "y": 46,
+        "z": -4877
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 347,
+        "y": 47,
+        "z": -4898
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 236,
+        "y": 82,
+        "z": -5030
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 421,
+        "y": 78,
+        "z": -5101
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 381,
+        "y": 81,
+        "z": -5112
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 271,
+        "y": 49,
+        "z": -5062
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 324,
+        "y": 39,
+        "z": -5073
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 383,
+        "y": 31,
+        "z": -5083
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffff",
+      "icon": "CHEST_T3",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 441,
+        "y": 19,
+        "z": -5068
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 516,
+        "y": 12,
+        "z": -5272
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 605,
+        "y": 27,
+        "z": -5021
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffff",
+      "icon": "CHEST_T3",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 614,
+        "y": 58,
+        "z": -5270
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 632,
+        "y": 77,
+        "z": -5310
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 566,
+        "y": 27,
+        "z": -5293
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 529,
+        "y": 38,
+        "z": -5293
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 565,
+        "y": 29,
+        "z": -5389
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 626,
+        "y": 27,
+        "z": -5533
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 592,
+        "y": 51,
+        "z": -5450
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 394,
+        "y": 32,
+        "z": -5464
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 278,
+        "y": 136,
+        "z": -5442
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 315,
+        "y": 44,
+        "z": -5624
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 346,
+        "y": 66,
+        "z": -5597
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 375,
+        "y": 85,
+        "z": -5615
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 359,
+        "y": 130,
+        "z": -5689
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 203,
+        "y": 104,
+        "z": -5391
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 288,
+        "y": 102,
+        "z": -5408
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 192,
+        "y": 89,
+        "z": -5359
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 105,
+        "y": 69,
+        "z": -5443
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 171,
+        "y": 87,
+        "z": -5448
+      }
+    },
+    {
+      "name": "Loot Chest 2",
+      "color": "#ffffff",
+      "icon": "CHEST_T2",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 231,
+        "y": 42,
+        "z": -5367
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 146,
+        "y": 54,
+        "z": -5464
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 175,
+        "y": 70,
+        "z": -5475
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 194,
+        "y": 57,
+        "z": -5190
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 356,
+        "y": 67,
+        "z": -1590
+      }
+    },
+    {
+      "name": "Loot Chest 1",
+      "color": "#ffffff",
+      "icon": "CHEST_T1",
+      "visibility": "DEFAULT",
+      "location": {
+        "x": 471,
+        "y": 75,
+        "z": -1563
       }
     }
   ],
