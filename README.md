@@ -37,7 +37,10 @@
 - In your downloaded repositery, open <code>index.html</code> using a web browser (I tested it on Chrome and it works fine);
 - You will be prompted to put the link to your configuration file, follow the steps to download your updated configuration file;
 - CLOSE MINECRAFT if not already closed, keep it closed until the end of the procedure;
-- RENAME the downloaded file as the configuration file that you found in <code>wynntils/config/</code> folder and replace it (just for good measure keep a backup on your computer of the original configuration file);
+- Go to https://codebeautify.org/jsonviewer, upload the configuration file you just downloaded;
+- Select from the options of the website <code>2 tab space</code> and click <code>Beautify</code>;
+- Download the beautified version of the configuration;
+- RENAME the downloaded file as the configuration file that you found in <code>wynntils/config/</code> folder and replace it with the beautified version of the new configuration file (WARNING: just for good measure keep a backup on your computer of the original configuration file, if you don't use the beautified version Wynntils will delete all your configuration data!);
 - Enjoy!
 
 
