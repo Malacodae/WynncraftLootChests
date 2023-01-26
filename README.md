@@ -3,6 +3,8 @@
 <p>WynncraftLootChest aims to simplify for the Wynntils users the discovery of loot chests.</p>
 <p>DISCLAIMER: As of now, the list of loot chests is not complete and I invite you to contribute to this project by sharing your Wynntils configuration file.</p>
 
+![preview image](https://github.com/Malacodae/WynncraftLootChests/blob/624ab29ccd48979632cb29bbeac37689d74b03d6/preview.png)
+
 
 <h3>Requirements</h3>
 
